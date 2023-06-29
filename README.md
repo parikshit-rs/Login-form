@@ -30,7 +30,7 @@ A basic login form, which navigates through homepage, then login page, and then 
 
 ## Comments
 
-This was one of the first projects I did in the field of website development so the interface may not look that beautiful, but it functions well that I can say for sure. You have complete freedom over how to modify the code or styles according to your preference.
+This was one of the first projects I did in the field of website development so the interface may not look that beautiful, but it functions well that I can say for sure. I may also update the files as I learn but you have complete freedom over how to modify the code or styles according to your preference.
 
 ## Contributions
 Feel free to submit a pull request for your suggesstions!
