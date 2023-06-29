@@ -8,7 +8,7 @@ A basic login form, which navigates through homepage, then login page, and then 
    ```
    npm init -y
    ```
-3. Now you need to install express.js and ejs installed on your system.
+3. Now you need to install express.js and ejs in your system.
    ```
    npm install express ejs
    ```
@@ -16,7 +16,7 @@ A basic login form, which navigates through homepage, then login page, and then 
 
 > server.js is provided
 
-5. Make two html files, one will be our homepage and other will be the login page.
+5. Make two html files, one will be our homepage and the other will be login page.
 
 > both home.html and login.html are provided
 
@@ -24,7 +24,7 @@ A basic login form, which navigates through homepage, then login page, and then 
 
 > response.ejs is provided
 
-7. At last create a folder names 'public' and create the css file for your project. 
+7. At last create a folder names 'public', inside this folder create the css file for your project. 
 
 > styles.css and a background image is provided in public folder. Although I did not spend much time writing this, you have complete freedom over the styles to modify it according to your preferences.
 
