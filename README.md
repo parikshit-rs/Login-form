@@ -12,7 +12,7 @@ A basic login form, which navigates through homepage, then login page, and then 
    ```
    npm install express ejs
    ```
-4. Make a js file names server.js. 
+4. Make a javascript file names which will be our server. 
 
 > server.js is provided
 
@@ -26,7 +26,11 @@ A basic login form, which navigates through homepage, then login page, and then 
 
 7. At last create a folder names 'public', inside this folder create the css file for your project. 
 
-> styles.css and a background image is provided in public folder. Although I did not spend much time writing this, you have complete freedom over the styles to modify it according to your preferences.
+> styles.css and a royalty free background image is provided in public folder.
+
+## Comments
+
+This was one of the first projects I did in the field of website development so the interface may not look that beautiful, but it functions well that I can say for sure. You have complete freedom over how to modify the code or styles according to your preference.
 
 ## Contributions
 Feel free to submit a pull request for your suggesstions!
