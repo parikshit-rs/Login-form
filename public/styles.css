@@ -1,0 +1,103 @@
+/* CSS for our form */
+
+body {
+    background-image:url('bg.jpg');  /* adding background for entire page */
+    background-image: url(bg.jpg);
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+a {
+    font-size: 60px;
+    color: blue;
+    font-family: sans-serif;
+    text-align: center;
+    display: block;
+    align-items: center;
+    background-color: rgb(245, 248, 251);
+    width: 600px;
+    height: 80px;
+    border-radius: 20px;
+}
+
+/* most of these attributes are applied using chrome developer tools, especially display:flex comes very handy their */
+
+form {
+    font-size: 30px;
+    color: rgb(15, 13, 13);
+    text-align: center;
+    font-family: sans-serif;
+    display: flex;
+    background-color: rgb(245, 248, 251);
+    width: 547px;
+    height: 324px;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: stretch;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+input {
+    font-size: 30px;
+    color: rgb(15, 13, 13);
+    text-align: center;
+    font-family: sans-serif;
+    display: flex;
+    background-color: rgb(245, 248, 251);
+    width: 365px;
+    height: 58px;
+    border-radius: 8px;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.sub {
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    align-content: center;
+    width: 210px;
+    height: 57px;
+}
+
+h1 {
+    background-color: aliceblue;
+    color: brown;
+    font-family: sans-serif;
+    display: flex;
+    border-radius: 20px 20px 5px 5px;
+    width: 700px;
+    height: 59px;
+    font-size: 40px;
+    justify-content: center;
+    align-items: baseline;
+}
+
+p {
+    background-color: aliceblue;
+    color: brown;
+    font-family: sans-serif;
+    display: flex;
+    border-radius: 5px 5px 20px 20px;
+    width: 700px;
+    height: 59px;
+    font-size: 20px;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: baseline;
+}
