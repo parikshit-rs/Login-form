@@ -12,11 +12,11 @@ A basic login form, which navigates through homepage, then login page, and then 
    ```
    npm install express ejs
    ```
-4. Make a javascript file names which will be our server. 
+4. Make a javascript file which will be our server. 
 
 > server.js is provided
 
-5. Make two html files, one will be our homepage and the other will be login page.
+5. Make two html files, one will be our homepage and the other will be our login page.
 
 > both home.html and login.html are provided
 
@@ -24,7 +24,7 @@ A basic login form, which navigates through homepage, then login page, and then 
 
 > response.ejs is provided
 
-7. At last create a folder names 'public', inside this folder create the css file for your project. 
+7. At last create a folder named 'public', inside this folder create the css file for your project. 
 
 > styles.css and a royalty free background image is provided in public folder.
 
