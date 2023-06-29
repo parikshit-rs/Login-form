@@ -1,5 +1,5 @@
 # Login-form
-A basic login form, which displays navigates through homepage, then login page, and then displays the data entered in the next page. This uses get and post request in express js framework. Apart from that it also involves usage of ejs for last page.
+A basic login form, which navigates through homepage, then login page, and then displays the data entered in the next page. This uses get and post request in express js framework. Apart from that it also involves usage of ejs for display of user input in thelast page.
 
 ## How to use
 1. Make sure you have Node.js installed in your system. In case you do not have it you can download from [here](https://nodejs.org/en).
